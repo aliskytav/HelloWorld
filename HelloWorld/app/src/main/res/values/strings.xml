@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_intro">Hello World! My name is Aliyah and I love to knit and crochet.</string>
+    <string name="say_hello">SAY HELLO!</string>
+</resources>
