@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/OfulbJU' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/OfulbJU' title='Video Walkthrough' alt='Video Walkthrough' />
+(https://imgur.com/gallery/OfulbJU)
+
 ![](https://github.com/aliskytav/HelloWorld/blob/main/HelloWorldGif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
